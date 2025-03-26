@@ -1,0 +1,30 @@
+.hero {
+    background: url("https://source.unsplash.com/1200x600/?theater") no-repeat center center/cover;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.carousel-container {
+    margin: 50px auto;
+    max-width: 900px;
+}
+
+.carousel-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,43 @@
+.movie-carousel {
+    max-width: 90%;
+    margin: auto;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+ /* Ensures the carousel takes full screen width */
+.carousel-container {
+  width: 100vw; /* Full viewport width */
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden; 
+  /* Prevents scrolling issues */
+}
+.carousel-image {
+  width: 100%;
+  height: 400px; /* Adjust as per requirement */
+  object-fit: cover; /* Ensures proper scaling without distortion */
+  object-position: bottom center; /* Adjust this to control which part of the image is visible */
+}
+
+
+
+
+  
+  
+  
+  
+  
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    border-radius: 10px;
+  }
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevents unwanted horizontal scrolling */
+  }
+  
+  
+  
