@@ -1,7 +1,5 @@
 # BookMyShow-2.0 (Frontend Only)
 
-## Assignment - 1
-
 ### Problem Description
 This project is a frontend-only implementation of the BookMyShow-2.0 website using **React.js** and **Bootstrap**. The goal is to create a visually appealing and responsive web application that mimics the design and functionalities of BookMyShow.
 
